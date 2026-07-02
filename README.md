@@ -54,7 +54,8 @@ The objective of this dashboard is to analyze employee data and identify key fac
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](<img width="1920" height="1080" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/a0ccb967-9b79-4912-9509-c5c48c6b7e5a" />
+)
 
 ---
 
